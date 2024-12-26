@@ -19,9 +19,9 @@ A aplicação é intuitiva e apresenta as seguintes funcionalidades principais:
 <hr>
 
 ## Benefícios da Implementação
-	•	Organização: Componentes bem definidos tornam o código mais limpo e fácil de manter.
-	•	Reatividade: O uso de estados e listas permite que as alterações sejam refletidas na interface instantaneamente.
-	•	Escalabilidade: A aplicação pode ser facilmente estendida com novas funcionalidades, como persistência local, filtros (tarefas concluídas/não concluídas), ou integração com banco de dados.
+      - Organização: Componentes bem definidos tornam o código mais limpo e fácil de manter.
+      - Reatividade: O uso de estados e listas permite que as alterações sejam refletidas na interface instantaneamente.
+      - Escalabilidade: A aplicação pode ser facilmente estendida com novas funcionalidades, como persistência local, filtros (tarefas concluídas/não concluídas), ou integração com banco de dados.
 
 
 ## :memo: Licença
