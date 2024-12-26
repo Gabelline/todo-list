@@ -10,18 +10,18 @@ A aplicação é intuitiva e apresenta as seguintes funcionalidades principais:
 
 
 ## Fluxo de Trabalho
-	1.	O usuário adiciona uma nova tarefa pelo campo de entrada.
-	2.	A tarefa é exibida na lista como “não concluída”.
-	3.	O usuário pode tocar na tarefa para alternar entre “concluída” e “não concluída”.
-	4.	O progresso das tarefas é atualizado automaticamente.
-	5.	O usuário pode remover qualquer tarefa da lista quando ela não for mais necessária.
+	-O usuário adiciona uma nova tarefa pelo campo de entrada.
+	-A tarefa é exibida na lista como “não concluída”.
+	-O usuário pode tocar na tarefa para alternar entre “concluída” e “não concluída”.
+	-O progresso das tarefas é atualizado automaticamente.
+   -O usuário pode remover qualquer tarefa da lista quando ela não for mais necessária.
  
 <hr>
 
 ## Benefícios da Implementação
       - Organização: Componentes bem definidos tornam o código mais limpo e fácil de manter.
       - Reatividade: O uso de estados e listas permite que as alterações sejam refletidas na interface instantaneamente.
-      - Escalabilidade: A aplicação pode ser facilmente estendida com novas funcionalidades, como persistência local, filtros (tarefas concluídas/não concluídas), ou integração com banco de dados.
+      - Escalabilidade: A aplicação pode ser facilmente estendida com novas funcionalidades, </br> como persistência local, filtros (tarefas concluídas/não concluídas), ou integração com banco de dados.
 
 
 ## :memo: Licença
