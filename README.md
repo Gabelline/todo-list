@@ -27,27 +27,12 @@ A aplicação é intuitiva e apresenta as seguintes funcionalidades principais:
 A aplicação utiliza os seguintes conceitos fundamentais do React Native:
 
 1. Estados
-	•	Os estados são usados para armazenar a lista de tarefas e o texto da nova tarefa a ser adicionada.
-	•	As alterações nos estados são tratadas de forma reativa, garantindo que a interface do usuário seja atualizada automaticamente.
-
-2. Imutabilidade do estado
-	•	A lista de tarefas é manipulada de maneira imutável, criando uma nova versão do estado sempre que uma tarefa é adicionada, concluída ou removida.
-	•	Isso garante a integridade dos dados e evita efeitos colaterais indesejados.
-
+2. Imutabilidade do estado	
 3. Listas e chaves no React Native
-	•	A lista de tarefas é renderizada utilizando o componente FlatList, que é otimizado para lidar com grandes volumes de dados.
-	•	Cada tarefa possui uma chave única (id) para garantir a eficiência e a identificação correta durante as atualizações.
-
-4. Propriedades
-	•	Os componentes filhos, como o item de tarefa e o campo de entrada, recebem dados e funções via props, permitindo a reutilização e melhor separação de responsabilidades.
-
+4. Propriedades	
 5. Componentização
-	•	A aplicação é organizada em componentes reutilizáveis e bem isolados, como:
-	•	TaskInput: Componente para entrada e adição de novas tarefas.
-	•	TaskItem: Componente que representa cada tarefa individual.
-	•	TaskProgress: Componente que exibe o progresso das tarefas concluídas.
+	
 
-
-## :memo: Licença
+## Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
